@@ -1,0 +1,13 @@
+# Nmap 7.98 scan initiated Tue Oct 21 23:14:05 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sn -oN .\\scan_results\\scan_ping_sweep.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.1
+Host is up (0.0070s latency).
+MAC Address: B4:86:18:13:7D:30 (GX India Pvt)
+Nmap scan report for 192.168.1.2
+Host is up (0.094s latency).
+MAC Address: 8C:EA:48:78:E3:92 (Samsung Electronics)
+Nmap scan report for 192.168.1.8
+Host is up (0.0020s latency).
+MAC Address: 5C:35:48:6A:EF:36 (Aditya Infotech)
+Nmap scan report for 192.168.1.6
+Host is up.
+# Nmap done at Tue Oct 21 23:14:10 2025 -- 256 IP addresses (4 hosts up) scanned in 5.19 seconds
