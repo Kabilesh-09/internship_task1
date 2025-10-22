@@ -1,0 +1,11 @@
+# ignore large binary captures by default
+*.pcap
+*.pcapng
+*.nmap
+*.gnmap
+
+
+# editor and OS
+.vscode/
+*.swp
+.DS_Store
